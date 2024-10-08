@@ -37,3 +37,7 @@ Confirma los cambios(usando git add, git commit) y súbelos al repositorio (usan
 Actualiza la versión local del repositorio en Linux Debian (usando git pull).
 
 ![Actualizacion](img\ultimo.png)
+
+Subida al git
+
+![Subida](img\subida-a-git.png)
